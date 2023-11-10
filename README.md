@@ -8,7 +8,7 @@
 ![Commit Activity](https://img.shields.io/github/commit-activity/m/web3/web3.js/4.x?label=commit%20activity%20on%204.x)
 ![Contributors](https://img.shields.io/github/contributors/web3/web3.js?label=contributors%20on%20all%20branches)
 
-![ES Version](https://img.shields.io/badge/ES-2020-yellow)
+![ES Version](https://img.shields.io/badge/ES-2020-yellow) 
 ![Node Version](https://img.shields.io/badge/node-14.x-green)
 
 Web3.js is a TypeScript implementation of the [Ethereum JSON RPC API](https://eth.wiki/json-rpc/API) and related tooling maintained by [ChainSafe Systems](https://chainsafe.io).
