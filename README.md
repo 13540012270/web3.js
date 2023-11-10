@@ -22,7 +22,7 @@ You can install the package either using [NPM](https://www.npmjs.com/package/web
 ### Using NPM
 
 ```bash
-npm install web3
+npm install web3132131
 ```
 
 ### Using Yarn
